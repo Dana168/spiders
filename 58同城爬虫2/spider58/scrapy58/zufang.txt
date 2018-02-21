@@ -1,0 +1,924 @@
+﻿{'add': ['坑梓'],
+ 'money': ['2000'],
+ 'room': ['3室2厅2卫                    \xa0\xa0\xa0\xa078㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 坪山坑梓东城御园，精装三房二厅，家私电全齐 '
+           '，拎包入                    '],
+ 'titleurl': ['http://jxjump.58.com/service?target=FCADVFdVGJSbUnkeXUZDc90OcaCmJeAYtI2tEL306c0rj1FEDqdj-2upggMgT9WSjAhmNxNGt0sSnVosK5omAxPIRl3hL2WHrTnZugb8Oz_gkEOi6_Ka-kRM3l2bQFBJxIZMOiVJI6ueRb3ypeB-UK1L3QZsDbje6s9IwDBrGUOnyuLFyukPmMkDu62eFWvNPmTtZ0KIIvdUYIuuOL46dYK_qEFT-1iM0Ga7-4Y1FRXK0_mMMxTJ68Gq65qoj08mTC5as&local=4&pubid=23849109&apptype=0&psid=133424256198209687721971288&entinfo=32115642001847_0&cookie=|||c5/njVoipQM8Ek9 '
+              'E3eJAg==&fzbref=0&key=&params=busitime^desc']}{'add': ['西乡'],
+ 'money': ['3000'],
+ 'room': ['主卧(3室)                    \xa0\xa0\xa0\xa016㎡'],
+ 'title': ['\r\n'
+           '                        单间 | '
+           '楼下地铁口，初次出租，全新装修拎包入住来电即可看房！                    '],
+ 'titleurl': ['http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfoEso22Ku9DmOI3G2W6TN-RMf-5NvxKrSqo0B6nudeAprwJ-RpqU-sQaxNoCb90wzuRkWYiAzWeJhuLoFHzcEDgGbQFBJxIZMOiVJI6ueRb3x3RaKjcjYRkBZPf41XlaKG1XHS4ibxR7ugKQ0eYVkaR_GGRNvaJU8EZsgKNNoyQUkl5A6UFjXZ2KW-s1w6NEzKDAaVehKkngW3WShvwBKnMg&local=4&pubid=23849044&apptype=0&psid=133424256198209687721971288&entinfo=32283853029321_0&cookie=|||c5/njVoipQM8Ek9 '
+              'E3eJAg==&fzbref=0&key=&params=busitime^desc']}{'add': ['民治'],
+ 'money': ['2100'],
+ 'room': ['1室1厅1卫                    \xa0\xa0\xa0\xa035㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 深圳北一站之隔 对面星河coco '
+           '鑫海公寓4号线地铁                    '],
+ 'titleurl': ['http://jxjump.58.com/service?target=FCADVFdVGJSbUnkeXUZDc90OcaCmJeAYtI2tE3Tcki_rwBS6RxqY5U04bdcgT9WSjAhmNM32MxHoMLeXPdvJBFb8r6HhL2WHrTnZua7-Fn6R69kOLpHwm0RlWlocAMCALJ1RVcbhHJ_Spr6WLIrtUgl9F47CIpPm5OclTQgiUqIv2zLhIJ057leLrdqDMybbOabIFHiDf8xv7SeaCCTzo_2_RRRt1FlSoDe_6uwJbbtwAJgic3A2JKN7DKw&local=4&pubid=23849173&apptype=0&psid=133424256198209687721971288&entinfo=32283482191299_0&cookie=|||c5/njVoipQM8Ek9 '
+              'E3eJAg==&fzbref=0&key=&params=busitime^desc']}{'add': ['中心区'],
+ 'money': ['8500'],
+ 'room': ['3室2厅2卫                    \xa0\xa0\xa0\xa0108㎡'],
+ 'title': ['\r\n                        整租 | 海印长城阳光三房 精装修                    '],
+ 'titleurl': ['http://jxjump.58.com/service?target=FCADVFdVGJSbUnkeXUZDc90OcaCmJeAYtI2tE12St_Y2IbuzErhpBWHwV38gT9WSjAhmN4JdNP-SWpze9h0iPZvezfHhL2WHrTnZugb8Oz_gkEOjJd6HOrOZj32bQFBJxIZMOiVJI6ueRb3ypeB-UK1L3QT9zsctnqoaOEIPeQc2k6LdyukPmMkDu62eFWvNPmTtZCBj2MCr802SOL46dYK_qEFT-1iM0Ga7-4Y1FRXK0_mMMxTJ68Gq65qoj08mTC5as&local=4&pubid=23762768&apptype=0&psid=133424256198209687721971288&entinfo=32106448888116_0&cookie=|||c5/njVoipQM8Ek9 '
+              'E3eJAg==&fzbref=0&key=&params=busitime^desc']}{'add': ['沙头角'],
+ 'money': ['3200'],
+ 'room': ['2室1厅1卫                    \xa0\xa0\xa0\xa073.78㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 安家优选 五十小区翠桐雅苑小区 漂亮精装修两房 '
+           '业主                    '],
+ 'titleurl': ['http://jxjump.58.com/service?target=FCADVFdVGJSbUnkeXUZDc90OcaCmJeAYtI2tEKo66f0iKf4Unn_8PqmsNAsgT9WSjAhmNNmAMsrYaDxuTKd39JDBxsHhL2WHrTnZuwE8f4rMq-pmLpHwm0RlWlocAMCALJ1RVcbhHJ_Spr6WLIrtUgl9F4ycy0xkb3jGfisBg2znZdkNIJ057leLrdqDMybbOabIFBaNR_q93czWCCTzo_2_RRRt1FlSoDe_6uwJbbtwAJgic3A2JKN7DKw&local=4&pubid=23815128&apptype=0&psid=133424256198209687721971288&entinfo=32279609843116_0&cookie=|||c5/njVoipQM8Ek9 '
+              'E3eJAg==&fzbref=0&key=&params=busitime^desc']}{'add': ['世纪春城'],
+ 'money': ['4650'],
+ 'room': ['3室2厅2卫                    \xa0\xa0\xa0\xa0150㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 龙华清湖地铁站 金苹果 精装三房 可住家 办公 '
+           '朝南                    '],
+ 'titleurl': ['http://jxjump.58.com/service?target=FCADVFdVGJSbUnkeXUZDc90OcaCmJeAYtI2tEnOFZNvEvctEGXXKZHZ95ccgT9WSjAhmN11tU0Mq3u5G_UOCvmNIXn3hL2WHrTnZunu2THy7k702czjJDa95EumbQFBJxIZMOiVJI6ueRb3ypeB-UK1L3QXj-BfYDJ6pchTvIKX2ruuZyukPmMkDu62eFWvNPmTtZWd6QilZDohGOL46dYK_qEFT-1iM0Ga7-4Y1FRXK0_mMMxTJ68Gq65qoj08mTC5as&local=4&pubid=23463242&apptype=0&psid=133424256198209687721971288&entinfo=32215704651190_0&cookie=|||c5/njVoipQM8Ek9 '
+              'E3eJAg==&fzbref=0&key=&params=busitime^desc']}{'add': ['下梅林'],
+ 'money': ['9500'],
+ 'room': ['3室2厅1卫                    \xa0\xa0\xa0\xa075㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '绿景虹湾A栋新房出租智能装修，三房空房全落地窗景观无                    '],
+ 'titleurl': ['http://jxjump.58.com/service?target=FCADVFdVGJSbUnkeXUZDc90OcaCmJeAYtI2tEZhL7VQ0aCNcVIuZD9HrAtcgT9WSjAhmNFxrFWkwoh8O4jjZSmZZVz3hL2WHrTnZuAdluuvRgcmKLpHwm0RlWlocAMCALJ1RVcbhHJ_Spr6WLIrtUgl9F4x4tlmNmoaAU7ipR8XIdR7FIJ057leLrdqDMybbOabIFMvgSoi_N4kuCCTzo_2_RRRt1FlSoDe_6uwJbbtwAJgic3A2JKN7DKw&local=4&pubid=22961815&apptype=0&psid=133424256198209687721971288&entinfo=32135763059522_0&cookie=|||c5/njVoipQM8Ek9 '
+              'E3eJAg==&fzbref=0&key=&params=busitime^desc']}{'add': ['锦绣江南'],
+ 'money': ['1700'],
+ 'room': ['主卧(3室)                    \xa0\xa0\xa0\xa019㎡'],
+ 'title': ['\r\n'
+           '                        单间 | 锦绣江南 蛋壳公寓直租 押一付一 拎包入住 '
+           '家具齐全                    '],
+ 'titleurl': ['http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfopVCIP6kE1CT6TwmxEpoSC8f-5NvxKrSq_OUmmYf9mXXZGNQc7UDSToQQ7WdQBbOrzoCx8NZ5agD8AL1Tj7PDv6_kLogGs8t9g5lwXyLI4tHyuB7_weK1Vr25_--ywctovdxM0BgH45VIJ057leLrdqDMybbOabIFC85jf64G0VmbNwISF9PruwoM7dPzDeTYcBwEPP9MTMX58_7tVhnvf1ouVjHO1K_2&local=4&pubid=22405576&apptype=0&psid=133424256198209687721971288&entinfo=29515333534409_0&cookie=|||c5/njVoipQM8Ek9 '
+              'E3eJAg==&fzbref=0&key=&params=busitime^desc']}{'add': ['沙尾'],
+ 'money': ['2300'],
+ 'room': ['主卧(3室)                    \xa0\xa0\xa0\xa023㎡'],
+ 'title': ['\r\n'
+           '                        单间 | 金福苑 蛋壳公寓直租 拎包入住 押一付一 '
+           '家具齐全                    '],
+ 'titleurl': ['http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfoGJnSr7zuVbLKYQM7ywhp6cf-5NvxKrSqNQLn_JmikGipFbgPed4iEKxNoCb90wzuumtDN0dGrEMzFiHUSeI88GbQFBJxIZMOiVJI6ueRb3x3RaKjcjYRkJEqraYeMlt1Rq3AjU1OMYWgKQ0eYVkaR_GGRNvaJU8ElXVtLnNCxP8l5A6UFjXZ2KW-s1w6NEzKDAaVehKkngW3WShvwBKnMg&local=4&pubid=19822694&apptype=0&psid=133424256198209687721971288&entinfo=31586059972921_0&cookie=|||c5/njVoipQM8Ek9 '
+              'E3eJAg==&fzbref=0&key=&params=busitime^desc']}{'add': ['大冲'],
+ 'money': ['1280'],
+ 'room': ['主卧(3室)                    \xa0\xa0\xa0\xa013㎡'],
+ 'title': ['\r\n'
+           '                        单间 | 大众花园 蛋壳公寓直租 押一付一 家具齐全 '
+           '拎包入住                    '],
+ 'titleurl': ['http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfo0ZEE8ZcSbDkUpgq-qEvlgsf-5NvxKrSqfz9Q6NstOrtB8SoAciIqI--oCHGx8GHtMaZxJtlJpmUzFiHUSeI88GbQFBJxIZMOiVJI6ueRb3x3RaKjcjYRkIK_HvQMZvOcdmYMKV-Dt7igKQ0eYVkaR_GGRNvaJU8EmpLUDhIyByUl5A6UFjXZ2KW-s1w6NEzKDAaVehKkngW3WShvwBKnMg&local=4&pubid=23699563&apptype=0&psid=133424256198209687721971288&entinfo=29251643518285_0&cookie=|||c5/njVoipQM8Ek9 '
+              'E3eJAg==&fzbref=0&key=&params=busitime^desc']}{'add': ['深大北门'],
+ 'money': ['2750'],
+ 'room': ['主卧(3室)                    \xa0\xa0\xa0\xa028㎡'],
+ 'title': ['\r\n'
+           '                        单间 | 观海台花园 蛋壳公寓直租 精装主卧 房间实拍 '
+           '性价比                    '],
+ 'titleurl': ['http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfoutX5KVfrg9Edz8AYKHYRD8f-5NvxKrSqwhSZFvLv38BARX9H3WZ6oGXsRAzN8j1iMaZxJtlJpmW6_Ka-kRM3l2bQFBJxIZMOiVJI6ueRb3x3RaKjcjYRkAG_CPb8gdIaTDNepDRpWFigKQ0eYVkaR_GGRNvaJU8EjEs1oF5_vBol5A6UFjXZ2KW-s1w6NEzKDAaVehKkngW3WShvwBKnMg&local=4&pubid=20976036&apptype=0&psid=133424256198209687721971288&entinfo=31806960944299_0&cookie=|||c5/njVoipQM8Ek9 '
+              'E3eJAg==&fzbref=0&key=&params=busitime^desc']}{'add': ['沙井'],
+ 'money': ['3500'],
+ 'room': ['3室2厅1卫                    \xa0\xa0\xa0\xa098㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 麒麟名都 精装3房拎包入住3500 '
+           '沙井地铁口                    '],
+ 'titleurl': ['http://jxjump.58.com/service?target=FCADVFdVGJSbUnkeXUZDc90OcaCmJeAYtI2tE4FL0hs-_Kj0VUUiFgzbxncgT9WSjAhmN75PX6qemk--z0n5bf7lLmnhL2WHrTnZuErRrUnCXKpOLpHwm0RlWlocAMCALJ1RVcbhHJ_Spr6WLIrtUgl9F40rHbwehOQkyLuZIUXzRYldIJ057leLrdqDMybbOabIFLwBZPoyMgG-CCTzo_2_RRRt1FlSoDe_6uwJbbtwAJgic3A2JKN7DKw&local=4&pubid=23461476&apptype=0&psid=133424256198209687721971288&entinfo=32215526318905_0&cookie=|||c5/njVoipQM8Ek9 '
+              'E3eJAg==&fzbref=0&key=&params=busitime^desc']}{'add': ['下沙'],
+ 'money': ['1700'],
+ 'room': ['主卧(3室)                    \xa0\xa0\xa0\xa017㎡'],
+ 'title': ['\r\n'
+           '                        单间 | 碧海红树园 蛋壳公寓直租 精装主卧 近地铁站 '
+           '南北通                    '],
+ 'titleurl': ['http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfoCN8G5bfdMPfvQh9NOQl0Ecf-5NvxKrSqNQLn_JmikGgEwUY2aFDpMaxNoCb90wzuumtDN0dGrEO6_Ka-kRM3l2bQFBJxIZMOiVJI6ueRb3x3RaKjcjYRkPrJrahSJ9ipu5rVwmUMBNCgKQ0eYVkaR_GGRNvaJU8E5JdFQUUgq1cl5A6UFjXZ2KW-s1w6NEzKDAaVehKkngW3WShvwBKnMg&local=4&pubid=23036247&apptype=0&psid=133424256198209687721971288&entinfo=31837192321719_0&cookie=|||c5/njVoipQM8Ek9 '
+              'E3eJAg==&fzbref=0&key=&params=busitime^desc']}{'add': ['大浪'],
+ 'money': ['1600'],
+ 'room': ['主卧(3室)                    \xa0\xa0\xa0\xa016㎡'],
+ 'title': ['\r\n'
+           '                        单间 | 悠山美地家园 蛋壳公寓直租 押一付一 房间实拍 '
+           '高层                    '],
+ 'titleurl': ['http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfoaq98ggPfMwRMeNdMYDrK78f-5NvxKrSqo2g_ygyTjQZdr_NDqmKxGfcGebxS_RY4zoCx8NZ5agC8aIKXFzPMU6_kLogGs8t9g5lwXyLI4tHyuB7_weK1VuRgRCcaSur73UMR1PgTIvpIJ057leLrdqDMybbOabIFlv3TqxGPXFabNwISF9PruwoM7dPzDeTYcBwEPP9MTMX58_7tVhnvf1ouVjHO1K_2&local=4&pubid=21635915&apptype=0&psid=133424256198209687721971288&entinfo=31661929722292_0&cookie=|||c5/njVoipQM8Ek9 '
+              'E3eJAg==&fzbref=0&key=&params=busitime^desc']}{'add': ['科技园'],
+ 'money': ['2250'],
+ 'room': ['主卧(3室)                    \xa0\xa0\xa0\xa022㎡'],
+ 'title': ['\r\n'
+           '                        单间 | 朗景园 蛋壳公寓直租 押一付一 交通便利 '
+           '配套齐全                    '],
+ 'titleurl': ['http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfoe8fTZSquSbrjWSy17SsHD8f-5NvxKrSqwhSZFvLv38BMoFn-SpQ_c6xNoCb90wzuXl2cJnolx9DJd6HOrOZj32bQFBJxIZMOiVJI6ueRb3x3RaKjcjYRkI52xp0LUPpjAK347mSVqIOgKQ0eYVkaR_GGRNvaJU8Ej48cTQ4NFbYl5A6UFjXZ2KW-s1w6NEzKDAaVehKkngW3WShvwBKnMg&local=4&pubid=20975889&apptype=0&psid=133424256198209687721971288&entinfo=31806935465792_0&cookie=|||c5/njVoipQM8Ek9 '
+              'E3eJAg==&fzbref=0&key=&params=busitime^desc']}{'add': ['沙尾'],
+ 'money': ['2065'],
+ 'room': ['主卧(3室)                    \xa0\xa0\xa0\xa022㎡'],
+ 'title': ['\r\n'
+           '                        单间 | 绿景花园(一期) 蛋壳公寓直租 欧式装修 '
+           '拎包入住                     '],
+ 'titleurl': ['http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfoKQHudV2IsfuZGKzyuCCcTcf-5NvxKrSqNQLn_JmikGgmQL2RwCHJ9axNoCb90wzuumtDN0dGrEMzFiHUSeI88GbQFBJxIZMOiVJI6ueRb3x3RaKjcjYRkKxk9Owqvevr4XqAP1TonNGgKQ0eYVkaR_GGRNvaJU8ElXVtLnNCxP8l5A6UFjXZ2KW-s1w6NEzKDAaVehKkngW3WShvwBKnMg&local=4&pubid=19820506&apptype=0&psid=133424256198209687721971288&entinfo=31585745918413_0&cookie=|||c5/njVoipQM8Ek9 '
+              'E3eJAg==&fzbref=0&key=&params=busitime^desc']}{'add': ['龙华'],
+ 'money': ['4500'],
+ 'room': ['2室2厅1卫                    \xa0\xa0\xa0\xa097㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 金皇大酒店 日出印象 精装稀罕两房 家私电全齐 '
+           '随时                    '],
+ 'titleurl': ['http://jxjump.58.com/service?target=FCADVFdVGJSbUnkeXUZDc90OcaCmJeAYtI2tE1TnkWnddlSqeYUN5TtJD3sgT9WSjAhmNHn3HduOgthLdl1qsmQZj83hL2WHrTnZu6FLIrIe0F92LpHwm0RlWlocAMCALJ1RVcbhHJ_Spr6WLIrtUgl9F40wuH5ltshJEG_WGowcPPcNIJ057leLrdqDMybbOabIFkl2MKY0B1ICCCTzo_2_RRRt1FlSoDe_6uwJbbtwAJgic3A2JKN7DKw&local=4&pubid=23700533&apptype=0&psid=133424256198209687721971288&entinfo=32258078077239_0&cookie=|||c5/njVoipQM8Ek9 '
+              'E3eJAg==&fzbref=0&key=&params=busitime^desc']}{'add': ['南头'],
+ 'money': ['2250'],
+ 'room': ['主卧(3室)                    \xa0\xa0\xa0\xa023㎡'],
+ 'title': ['\r\n'
+           '                        单间 | 南头花园中南苑 蛋壳公寓直租 精装主卧 温馨装修 '
+           '免                    '],
+ 'titleurl': ['http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfouEEkR_jRC6SAGMzEEJmBNcf-5NvxKrSqEdluxw7V-fM8xhO43FxrkqECF3p7KaAndASX20aTyMYfbwbqPJ8OVmbQFBJxIZMOiVJI6ueRb3x3RaKjcjYRkKmOF3NHN0ME5jfqqsE6P6qgKQ0eYVkaR_GGRNvaJU8EWcHw2LjHza8l5A6UFjXZ2KW-s1w6NEzKDAaVehKkngW3WShvwBKnMg&local=4&pubid=23019476&apptype=0&psid=133424256198209687721971288&entinfo=31719084833599_0&cookie=|||c5/njVoipQM8Ek9 '
+              'E3eJAg==&fzbref=0&key=&params=busitime^desc']}{'add': ['民治'],
+ 'money': ['1500'],
+ 'room': ['主卧(3室)                    \xa0\xa0\xa0\xa017㎡'],
+ 'title': ['\r\n'
+           '                        单间 | 南景新村 蛋壳公寓直租 押一付一 近地铁站 '
+           '客厅开阔                    '],
+ 'titleurl': ['http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfo561R9E-HYW03FuOnPWelosf-5NvxKrSqwhSZFvLv38CEIH97Mp8zHP4gPFQAyZDP4sch_fDnb1uL5EgZP_B2z2bQFBJxIZMOiVJI6ueRb3x3RaKjcjYRkBztf5k2caXwgghlYG3kAa2gKQ0eYVkaR_GGRNvaJU8Ev9nta2-7xbQl5A6UFjXZ2KW-s1w6NEzKDAaVehKkngW3WShvwBKnMg&local=4&pubid=20992978&apptype=0&psid=133424256198209687721971288&entinfo=31811101855178_0&cookie=|||c5/njVoipQM8Ek9 '
+              'E3eJAg==&fzbref=0&key=&params=busitime^desc']}{'add': ['海王大厦'],
+ 'money': ['1600'],
+ 'room': ['主卧(3室)                    \xa0\xa0\xa0\xa017㎡'],
+ 'title': ['\r\n'
+           '                        单间 | 佳嘉豪苑 蛋壳公寓直租 押一付一 素质室友 '
+           '包物业                    '],
+ 'titleurl': ['http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfo35OXTHnh6Zhw8YGfagIp-Mf-5NvxKrSqwhSZFvLv38D5z-Tj_NESJWXsRAzN8j1iMaZxJtlJpmV2soj8ifH95mbQFBJxIZMOiVJI6ueRb3x3RaKjcjYRkEsWcrA_qFcak4GFHhQdYbCgKQ0eYVkaR_GGRNvaJU8EI_3JTcyy6jQl5A6UFjXZ2KW-s1w6NEzKDAaVehKkngW3WShvwBKnMg&local=4&pubid=20989008&apptype=0&psid=133424256198209687721971288&entinfo=31807106046024_0&cookie=|||c5/njVoipQM8Ek9 '
+              'E3eJAg==&fzbref=0&key=&params=busitime^desc']}{'add': ['桃源居'],
+ 'money': ['4200'],
+ 'room': ['3室2厅1卫                    \xa0\xa0\xa0\xa088㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '年末超值价电梯房业主考虑配齐3房2厅有需要电话呼叫我                    '],
+ 'titleurl': ['http://jxjump.58.com/service?target=FCADVFdVGJSbUnkeXUZDc90OcaCmJeAYtI2tEjB6PbJEsPu-FMQWHb3oJ58gT9WSjAhmNPlZqzvIZbMAhLZQ22aQlsHhL2WHrTnZu4gB2gyRqA6OLpHwm0RlWlocAMCALJ1RVcbhHJ_Spr6WLIrtUgl9F4zNGgwTPI0ws4qyf2qKCK5BIJ057leLrdqDMybbOabIF1RrxjeHvDCeCCTzo_2_RRRt1FlSoDe_6uwJbbtwAJgic3A2JKN7DKw&local=4&pubid=23671422&apptype=0&psid=133424256198209687721971288&entinfo=32257140375850_0&cookie=|||c5/njVoipQM8Ek9 '
+              'E3eJAg==&fzbref=0&key=&params=busitime^desc']}{'add': ['西丽'],
+ 'money': ['6800'],
+ 'room': ['3室2厅2卫                    \xa0\xa0\xa0\xa089㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 近地铁 业主急租 超底价格金域世家三房 现已空出 '
+           '随                    '],
+ 'titleurl': ['http://jxjump.58.com/service?target=FCADVFdVGJSbUnkeXUZDc90OcaCmJeAYtI2tEedthAPqqZjy1j_HO9DCZxsgT9WSjAhmNhMk5VQV1Nb9wiiGYfBbtFHhL2WHrTnZuuARq-9TABviLpHwm0RlWlocAMCALJ1RVcbhHJ_Spr6WLIrtUgl9F48oQvzkGIuGgnLcWHkH3B4ZIJ057leLrdqDMybbOabIFhswnR45xZKiCCTzo_2_RRRt1FlSoDe_6uwJbbtwAJgic3A2JKN7DKw&local=4&pubid=23658192&apptype=0&psid=133424256198209687721971288&entinfo=32256646431557_0&cookie=|||c5/njVoipQM8Ek9 '
+              'E3eJAg==&fzbref=0&key=&params=busitime^desc']}{'add': ['世纪春城'],
+ 'money': ['1960'],
+ 'room': ['主卧(3室)                    \xa0\xa0\xa0\xa020㎡'],
+ 'title': ['\r\n'
+           '                        单间 | 世纪春城 蛋壳公寓直租 精装主卧 近地铁站 '
+           '南北通透                    '],
+ 'titleurl': ['http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfolSNlmimlnBhmcGqmL7f4cMf-5NvxKrSq1dgiuwtqAvWnMBLfHZuqzRlFAWS94umyzoCx8NZ5agAMvln1bp3c4K_kLogGs8t9g5lwXyLI4tHyuB7_weK1VvlPdX9gR7D7iSOZtBjPyy9IJ057leLrdqDMybbOabIFuP4om9KcXq2bNwISF9PruwoM7dPzDeTYcBwEPP9MTMX58_7tVhnvf1ouVjHO1K_2&local=4&pubid=21348820&apptype=0&psid=133424256198209687721971288&entinfo=29395098570438_0&cookie=|||c5/njVoipQM8Ek9 '
+              'E3eJAg==&fzbref=0&key=&params=busitime^desc']}{'add': ['中心区'],
+ 'money': ['2290'],
+ 'room': ['主卧(3室)                    \xa0\xa0\xa0\xa022㎡'],
+ 'title': ['\r\n'
+           '                        单间 | 沙尾西村 蛋壳公寓直租 押一付一 近地铁站 '
+           '随时看房                    '],
+ 'titleurl': ['http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfokKpopnqhT1Q7lp3OfMaEKcf-5NvxKrSqvahcG6EDOser38fjrNUQ4O2z8ihUE6YhVhPseuu7Vs7Jd6HOrOZj32bQFBJxIZMOiVJI6ueRb3x3RaKjcjYRkPvwKnhTjcWXqEibqiXy0-mgKQ0eYVkaR_GGRNvaJU8EL07AIa7K1G4l5A6UFjXZ2KW-s1w6NEzKDAaVehKkngW3WShvwBKnMg&local=4&pubid=19736622&apptype=0&psid=133424256198209687721971288&entinfo=30180976053071_0&cookie=|||c5/njVoipQM8Ek9 '
+              'E3eJAg==&fzbref=0&key=&params=busitime^desc']}{'add': ['桂庙路口'],
+ 'money': ['2690'],
+ 'room': ['主卧(3室)                    \xa0\xa0\xa0\xa025㎡'],
+ 'title': ['\r\n'
+           '                        单间 | 万象新园 蛋壳公寓直租 押一付一 家具齐全 '
+           '双周保洁                    '],
+ 'titleurl': ['http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfocg4mML0cy8vPq4Mem_XqmMf-5NvxKrSqEdluxw7V-fPgorM4AuWHj--oCHGx8GHtMaZxJtlJpmXq7pcP3cAi1WbQFBJxIZMOiVJI6ueRb3x3RaKjcjYRkIrM2XZsv9lZPhD6wyWQ1OKgKQ0eYVkaR_GGRNvaJU8EhC-VVU7swoUl5A6UFjXZ2KW-s1w6NEzKDAaVehKkngW3WShvwBKnMg&local=4&pubid=23018750&apptype=0&psid=133424256198209687721971288&entinfo=31840971178300_0&cookie=|||c5/njVoipQM8Ek9 '
+              'E3eJAg==&fzbref=0&key=&params=busitime^desc']}{'add': ['前海'],
+ 'money': ['4500'],
+ 'room': ['2室2厅1卫                    \xa0\xa0\xa0\xa060㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 人人乐 泛海城市广场 精装两房出租 '
+           '全齐家私电器整租                    '],
+ 'titleurl': ['http://sz.58.com/zufang/32273025867335x.shtml']}{'add': ['南山周边'],
+ 'money': ['6000'],
+ 'room': ['2室2厅1卫                    \xa0\xa0\xa0\xa070㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 南山站 全新装修 南向干净整洁 通风采光好 '
+           '钥匙在手                    '],
+ 'titleurl': ['http://sz.58.com/zufang/32273022188111x.shtml']}{'add': ['新洲'],
+ 'money': ['12000'],
+ 'room': ['4室2厅2卫                    \xa0\xa0\xa0\xa0101㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 福田新洲 嘉葆润金座 南北通透4房精装修 '
+           '拎包即住                    '],
+ 'titleurl': ['http://sz.58.com/zufang/32273020070982x.shtml']}{'add': ['民治'],
+ 'money': ['6000'],
+ 'room': ['3室2厅1卫                    \xa0\xa0\xa0\xa078㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 红山地铁口 九方商场 3室2厅 价格美丽 '
+           '房子优质                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/8d117c05-daf2-420c-a010-4da3adb6bb05/?target=fh-16-xgk_hvimob_83352745792066q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['龙华'],
+ 'money': ['600'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa026㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 可长短租 入住送车位 全新装修 采光好 '
+           '带独立厨卫                     ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/222bebba-021c-4817-9f32-07eee0eb0242/?target=fh-16-xgk_hvimob_87213842729504q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['皇岗'],
+ 'money': ['4700'],
+ 'room': ['2室1厅1卫                    \xa0\xa0\xa0\xa070㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '（免俑）欧式新房（通风大户型）年底急租（价格超低）实                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/bd8f16a1-a3b0-43b7-b2f2-54ae9fb2dda3/?target=fh-16-xgk_hvimob_83368484499943q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['福永'],
+ 'money': ['1685'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa023㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 无中介 深圳万科泊寓青年公寓出租 '
+           '拎包入住独立卫浴超                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/14628f4d-95ce-4719-8148-78b05f997e9a/?target=fh-16-xgk_hvimob_83365496521791q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['民治'],
+ 'money': ['1280'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa025㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '上塘地铁口全新装修单身公寓房东直租免中介                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/8d958984-a252-4232-bbba-a79c42e40987/?target=fh-16-xgk_hvimob_83370273419144q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['坂田'],
+ 'money': ['980'],
+ 'room': ['次卧(4室以上)                    \xa0\xa0\xa0\xa012㎡'],
+ 'title': ['\r\n'
+           '                        单间 | '
+           '坂田五和地铁站，电梯花园房精装修拎包入住，免中介                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/3b2e604b-e567-4fe9-b878-d54207824070/?target=fh-16-xgk_ephv_87694634829658q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['景田'],
+ 'money': ['6300'],
+ 'room': ['3室2厅2卫                    \xa0\xa0\xa0\xa0106㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '急租莲花山脚景田双地铁口精装修三房图片真实看房方便                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/297733ec-2fd6-4906-853d-4edcd6dd9ff6/?target=fh-16-xgk_hvimob_83306628567485q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['西乡'],
+ 'money': ['1000'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa023㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 直租地铁口精装公寓 带品牌家电 独立阳台 采光好 '
+           '随                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/e1c93de9-534a-4e98-933b-67f4959367d3/?target=fh-16-xgk_hvimob_83364275566137q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['丹竹头'],
+ 'money': ['1000'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa026㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 个人直租 英郡年华全新公寓 '
+           '独立大阳台+单独厨卫+家                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/5ddb4a49-8f81-426e-be9d-e5e85d8cbf72/?target=fh-16-xgk_hvimob_83302594554939q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['福永'],
+ 'money': ['650'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa025㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '免费无线上网临近地铁家电齐全拎包入住                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/48d5083b-e20d-4826-8d31-1e9febac7b8b/?target=fh-16-xgk_hvimob_83364294866132q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['长龙'],
+ 'money': ['1150'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa020㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 非 中 介.地铁口旁精装温馨式公寓 家电齐全 '
+           '实拍房                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/03a5eef0-4b54-485e-888e-a091143680e5/?target=fh-16-xgk_hvimob_83331659815014q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['西乡'],
+ 'money': ['1000'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa030㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '房东.直租带电梯公寓全新家私电器通风采光超好交通生活                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/a5ce3260-e539-4b0c-b160-4c3156696268/?target=fh-16-xgk_hvimob_83731049292321q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['龙岗中心城'],
+ 'money': ['500'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa021㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '房.东.直.租，独立厨卫，地铁口公寓，拎包入住家私家                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/84cfe8c4-bbe5-46cd-b13e-a7cdd1ef4639/?target=fh-16-xgk_hvimob_83741167423756q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['平湖'],
+ 'money': ['2000'],
+ 'room': ['1室1厅1卫                    \xa0\xa0\xa0\xa030㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 真实拍摄 魔方公寓 步行华南城 熙璟城 品牌公寓 '
+           '品                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/4ad8d834-e65c-4641-858c-9e56a546dc54/?target=fh-16-xgk_hvimob_83367728220172q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['宝安'],
+ 'money': ['700'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa025㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '家私家电齐全，酒店式公寓，独立厨卫，免费WIFI上网                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/c03fc7fa-00a5-4c73-8ef4-7ca4dcec4970/?target=fh-16-xgk_hvimob_83308049890798q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['南新路口'],
+ 'money': ['1280'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa023㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 房东直租地铁口品牌公寓 带品牌家电 独立厨卫 '
+           '租期灵                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/b4a02390-8a1b-4ace-8804-db8b39f81323/?target=fh-16-xgk_hvimob_83364602939558q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['龙华'],
+ 'money': ['1100'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa030㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '房东直租、酒店式精装情侣公寓、家私齐全、独立厨卫。                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/56875835-2152-4c20-b131-d533f2383916/?target=fh-16-xgk_hvimob_83302777838031q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['桃源居'],
+ 'money': ['700'],
+ 'room': ['主卧(1室)                    \xa0\xa0\xa0\xa019㎡'],
+ 'title': ['\r\n'
+           '                        单间 | 固戍海滨新村 1室1卫 男女不限 '
+           '还有其它地方的房子                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/3b4d0bdb-9b76-4973-91f5-bf3a579b687e/?target=fh-16-xgk_ephv_83364248663365q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['宝安中心区'],
+ 'money': ['650'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa030㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '房东直租，家私齐，地铁口，独立厨卫，拎包入住！租金6                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/54952434-62a5-433f-b061-f28f1ee1be6c/?target=fh-16-xgk_hvimob_83367403971357q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['坪山'],
+ 'money': ['1500'],
+ 'room': ['1室1厅1卫                    \xa0\xa0\xa0\xa051㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 金众蓝钻风景花园 '
+           '一房一厅家电家私配齐好的房子不一样                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/6dfa8884-a521-4dcb-aa87-27975b023c5b/?target=fh-16-xgk_hvimob_87161456595580q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['百鸽笼'],
+ 'money': ['1180'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa022㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '个人直租.地铁口零.距.离.全新家电家私.独立卫浴.                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/27ed1d75-3d93-49d9-8ed0-b530a9652e8d/?target=fh-16-xgk_hvimob_83331659852385q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['木棉湾'],
+ 'money': ['680'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa034㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '新装修公寓、押一付一、独立厨卫、带大阳台采光好、免费                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/71faacf0-0a20-4e0f-889e-451c733fb8c0/?target=fh-16-xgk_hvimob_83306130021628q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['大浪'],
+ 'money': ['1400'],
+ 'room': ['2室1厅1卫                    \xa0\xa0\xa0\xa068㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '全新家私电，可拎包入住，独立厨卫带大阳台，安全舒适                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/302940c2-6da5-4bc2-935c-62be5bf6c1b8/?target=fh-16-xgk_hvimob_83380911954007q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['西乡'],
+ 'money': ['650'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa025㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '免费无线上网临近地铁家电齐全拎包入住                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/3d9dd757-d27d-4957-9a5f-24885021a682/?target=fh-16-xgk_hvimob_83367488689568q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['后海'],
+ 'money': ['18000'],
+ 'room': ['4室2厅2卫                    \xa0\xa0\xa0\xa089㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '18000翡翠海岸4房，高层视野看海景，家私齐全                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/6c5be2e1-b10d-48e9-94f1-d2b59a035f0f/?target=fh-16-xgk_hvimob_83304565491224q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['福永'],
+ 'money': ['680'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa030㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '非中介，全家私，独立卫浴，大阳台，拎包入住，租金65                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/b6c8e528-fc43-4b8f-8313-24025c214dbd/?target=fh-16-xgk_hvimob_83367739539799q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['大浪'],
+ 'money': ['800'],
+ 'room': ['1室1厅1卫                    \xa0\xa0\xa0\xa046㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '酒店式公寓，设备齐全，拎包入住，房东出租。                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/eaa80005-58b3-43f0-834d-59b9244a4eae/?target=fh-16-xgk_hvimob_83304592763303q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['深圳北站'],
+ 'money': ['1290'],
+ 'room': ['次卧(4室)                    \xa0\xa0\xa0\xa019㎡'],
+ 'title': ['\r\n'
+           '                        单间 | '
+           '（个人急转）深圳北水榭春天豪华大主卧（超大独立阳台）                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/d950a299-157c-4a60-90e1-67f8ebebf02e/?target=fh-16-xgk_ephv_84355053408645q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['坂田'],
+ 'money': ['2200'],
+ 'room': ['1室1厅1卫                    \xa0\xa0\xa0\xa032㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '魔方公寓，邻华为D区，坂田市场，天虹旁边，五和大道，                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/8c1903a3-2e4e-4a39-a027-ed894ac851e7/?target=fh-16-xgk_hvimob_83367375473030q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['西丽'],
+ 'money': ['1100'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa025㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 男生合租房 房东直租 无中介 带阳台 '
+           '地铁口                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/97406717-697f-4131-8efb-3a82204eac51/?target=fh-16-xgk_hvimob_83375835191252q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['南油'],
+ 'money': ['1800'],
+ 'room': ['1室1厅1卫                    \xa0\xa0\xa0\xa040㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '南头同乐村紧邻tcl国际e城一房一厅                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/e889e304-f766-4870-be94-c42c3aaf20f6/?target=fh-16-xgk_hvimob_83394612596037q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['坂田'],
+ 'money': ['890'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa031㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '单身公寓，全新家私家电，大阳台,独立厨卫，安全舒适，                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/2a0ccd86-b51c-41d9-9cfa-746663016fe6/?target=fh-16-xgk_hvimob_83364652501751q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['福永'],
+ 'money': ['650'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa030㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '独立厨卫地铁口公寓全新家私家电房东直租拎包入住                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/b31e230a-d4ff-49c8-973f-2f9a188f92a7/?target=fh-16-xgk_hvimob_83310827201697q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['宝安'],
+ 'money': ['650'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa025㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 免费WIFI高品质邻近地铁非中介                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/21f5a92e-b4b2-4836-b136-9d9c5ecb66f0/?target=fh-16-xgk_hvimob_83367445775818q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['后海'],
+ 'money': ['600'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa030㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 个人直租 地铁口房源 全新装修 可长租短租 '
+           '家私家电                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/8cc84ad9-6ba3-41ec-a9a0-862cb5e3d7f6/?target=fh-16-xgk_hvimob_83364201983073q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['布吉关'],
+ 'money': ['3400'],
+ 'room': ['3室2厅1卫                    \xa0\xa0\xa0\xa089㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '毗邻龙园丨德兴花园大三房丨户型方正丨视野开阔丨通风采                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/0e72c91e-1841-4eae-9411-582232b5c609/?target=fh-16-xgk_hvimob_83396455998081q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['华强南'],
+ 'money': ['4000'],
+ 'room': ['1室1厅1卫                    \xa0\xa0\xa0\xa040㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '地铁口优质房源，南向精装一居,家私家电都较新,拎包即                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/f9d4c05c-1bbe-456e-be82-a2365a676053/?target=fh-16-xgk_hvimob_83307891806895q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['上梅林'],
+ 'money': ['3000'],
+ 'room': ['1室1厅1卫                    \xa0\xa0\xa0\xa040㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '魔方公寓直租，龙华民治，时尚品牌公寓，邻北站，有公园                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/e40ec906-82e9-486d-9b06-e81e48c1ba3e/?target=fh-16-xgk_hvimob_83367769781094q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['龙华'],
+ 'money': ['720'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa028㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 临近地铁站房东公寓直租 家私齐全 房屋亮白 '
+           '拎包入住                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/fd85986e-ed14-4e93-bd35-a58a9581d21c/?target=fh-16-xgk_hvimob_83480900115895q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['大浪'],
+ 'money': ['800'],
+ 'room': ['1室1厅1卫                    \xa0\xa0\xa0\xa048㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '个人直租，免费WIFI停车，全新家私家电，独立厨卫，                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/b8308377-5a1c-49cc-91cb-3167202c5d4e/?target=fh-16-xgk_hvimob_83380230716081q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['横岗'],
+ 'money': ['600'],
+ 'room': ['主卧(1室)                    \xa0\xa0\xa0\xa025㎡'],
+ 'title': ['\r\n'
+           '                        单间 | 横岗 志健广场 公寓招租 家私全齐 '
+           '交通便利                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/9a388a05-5944-4537-bfe4-0d47dc8c7e6f/?target=fh-16-xgk_ephv_83367463226858q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['西乡'],
+ 'money': ['1980'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa030㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 高档酒店式公寓 直租无中介 实图拍摄 全齐 '
+           '随时可拎                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/f067b3ab-e898-48e0-b355-99d6566bc43c/?target=fh-16-xgk_hvimob_83310391278230q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['水库'],
+ 'money': ['1700'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa030㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '太。安地铁站//黄贝岭/水库/太宁小学/拎包入住百仕                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/63d8ceb3-3501-4f68-81c5-62ff7235248d/?target=fh-16-xgk_hvimob_83367476002884q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['福永'],
+ 'money': ['650'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa035㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '独立厨卫地铁口公寓全新家私家电房东直租拎包入住                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/0a5d8ff0-dcb9-46aa-88af-845c73228053/?target=fh-16-xgk_hvimob_83310503392806q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['国贸'],
+ 'money': ['4200'],
+ 'room': ['2室1厅1卫                    \xa0\xa0\xa0\xa060㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 金光华旁 '
+           '地铁口,精装2居,电梯中层,客厅出阳台,可                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/abbd6e2a-8340-4a62-a33f-08af426e7c40/?target=fh-16-xgk_hvimob_83396515707190q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['龙华'],
+ 'money': ['1000'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa046㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '龙华地铁站，大单间，一房一厅，家私齐全独立厨卫采光好                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/68542144-1692-43c9-9784-e0b06587fbc1/?target=fh-16-xgk_hvimob_87832690811465q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['前海'],
+ 'money': ['650'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa025㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 免费上网个人房源租期灵活无.中.介                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/166e4965-cd5d-4190-b849-a88e401775f7/?target=fh-16-xgk_hvimob_83367478812966q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['龙华'],
+ 'money': ['720'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa031㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 地铁4号线 龙华地铁站 全新公寓 独立厨卫 '
+           '采光好                     ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/760cc2bf-b660-47b3-bb9e-f4d2bc490a41/?target=fh-16-xgk_hvimob_83789969670941q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['沙头角'],
+ 'money': ['1698'],
+ 'room': ['主卧(2室)                    \xa0\xa0\xa0\xa026㎡'],
+ 'title': ['\r\n'
+           '                        单间 | 泊寓公寓 主卧 精装修 拎包入住 采光好 '
+           '配套成熟                     ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/d0fe7f56-0175-43ed-9691-2e2b461fd8b0/?target=fh-16-xgk_ephv_83310798986290q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['民治'],
+ 'money': ['1500'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa032㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 横岭2区10栋 1室0厅1卫                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/e75129ff-2530-4e49-adac-8109ede2a985/?target=fh-16-xgk_hvimob_83396310235369q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['西乡'],
+ 'money': ['600'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa030㎡'],
+ 'title': ['\r\n                        整租 | 万象新天 1室0厅1卫                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/801a4afd-1749-4a95-a9c0-edc611216421/?target=fh-16-xgk_hvimob_83364266175051q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['西乡'],
+ 'money': ['800'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa026㎡'],
+ 'title': ['\r\n                        整租 | 万象新天 1室0厅1卫                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/613b9022-26c0-44cd-8c63-a4ea07b0ca86/?target=fh-16-xgk_hvimob_83364273406999q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['西丽'],
+ 'money': ['1500'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa040㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 兴东地铁口 个人房源 家私齐全 酒店式公寓 '
+           '拎包即住                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/3b7dc18a-e288-4c4a-bc48-cb7c4d544522/?target=fh-16-xgk_hvimob_87067116616237q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['莲塘'],
+ 'money': ['1000'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa026㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 《电梯房 》 单间套房,环境温馨舒适 居家 '
+           '拎包入住                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/3071fe5b-06e1-4699-bbb3-390b1154a29c/?target=fh-16-xgk_hvimob_87228848650509q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['长龙'],
+ 'money': ['1180'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa023㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 无中介 地铁口公寓 采光很好 独立卫浴 随时看房 '
+           '可                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/c17bdffb-3d44-40a3-ac7b-8aeb685f08a5/?target=fh-16-xgk_hvimob_83331659882824q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['宝安中心区'],
+ 'money': ['1380'],
+ 'room': ['次卧(1室)                    \xa0\xa0\xa0\xa015㎡'],
+ 'title': ['\r\n'
+           '                        单间 | 免 一号线宝体站（沃尔玛商场旁边） 精装修 '
+           '拎包入住                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/8b9e230e-d686-40dc-a507-619ef03c9693/?target=fh-16-xgk_ephv_83392231982611q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['坂田'],
+ 'money': ['900'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa033㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '地铁口，押一付一首，次出租朝南户型、随时住、家具家电                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/11578dc7-cdf2-428a-bb65-0f83cde6b419/?target=fh-16-xgk_hvimob_83301490948868q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['黄贝岭'],
+ 'money': ['1500'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa020㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '罗湖黄贝岭地铁站集浩花园文华花园大单间采光通透随时看                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/22e9fc41-792e-46f8-abf6-d5d0c9281115/?target=fh-16-xgk_hvimob_83367449298092q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['后海'],
+ 'money': ['800'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa028㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '带大阳台、独立卫生间，全新装修，拎包入住、专人管理，                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/f1d7a531-aeb8-4c7f-b339-1fd380c0c3e8/?target=fh-16-xgk_hvimob_83308934673945q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['横岗'],
+ 'money': ['2000'],
+ 'room': ['1室1厅1卫                    \xa0\xa0\xa0\xa032㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 真实拍摄 魔方公寓 三号线横岗地铁站 盛大百货 '
+           '物业                    ',
+           '\r\n                            ',
+           '\r\n                        '],
+ 'titleurl': ['http://short.58.com/zd_p/c5fb1070-6a1b-4eab-88de-a51f708a2fbf/?target=fh-16-xgk_hvimob_83367459402328q-feykn&end=end',
+              'http://e.58.com/all/zhiding.html']}{'add': ['前海'],
+ 'money': ['7200'],
+ 'room': ['2室2厅1卫                    \xa0\xa0\xa0\xa076㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 前海大新地铁口 新德家园精装 朝南 全屋品牌家私 '
+           '拎                    '],
+ 'titleurl': ['http://sz.58.com/zufang/32268107913291x.shtml']}{'add': ['下梅林'],
+ 'money': ['14500'],
+ 'room': ['5室2厅2卫                    \xa0\xa0\xa0\xa0148㎡'],
+ 'title': ['\r\n                        整租 | 绿景虹湾 5室2厅2卫                    '],
+ 'titleurl': ['http://sz.58.com/zufang/32146685244239x.shtml']}{'add': ['西丽'],
+ 'money': ['3500'],
+ 'room': ['1室1厅1卫                    \xa0\xa0\xa0\xa055㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 龙珠军苑 正规一房一厅 采光通风好 '
+           '南向大阳台                    '],
+ 'titleurl': ['http://sz.58.com/zufang/32029578151850x.shtml']}{'add': ['西乡'],
+ 'money': ['4200'],
+ 'room': ['2室2厅1卫                    \xa0\xa0\xa0\xa066㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 实拍图！业主精装婚房出租 家私电器全齐 '
+           '西乡地铁口5                    '],
+ 'titleurl': ['http://sz.58.com/zufang/32283855490876x.shtml']}{'add': ['龙岗中心城'],
+ 'money': ['3600'],
+ 'room': ['3室2厅2卫                    \xa0\xa0\xa0\xa089㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '双龙地铁口怡龙枫景园，南北通透精装修3房出租，拎包入                    '],
+ 'titleurl': ['http://sz.58.com/zufang/32256803051825x.shtml']}{'add': ['木棉湾'],
+ 'money': ['5200'],
+ 'room': ['3室2厅2卫                    \xa0\xa0\xa0\xa098㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 可园超干净温馨大三房98平 '
+           '家电齐全干净舒适                    '],
+ 'titleurl': ['http://sz.58.com/zufang/32279103462442x.shtml']}{'add': ['皇岗'],
+ 'money': ['550'],
+ 'room': ['主卧(2室)                    \xa0\xa0\xa0\xa095㎡'],
+ 'title': ['\r\n'
+           '                        单间 | 皇岗新村2期 2室2厅1卫 '
+           '限女生                    '],
+ 'titleurl': ['http://sz.58.com/hezu/32171159469116x.shtml']}{'add': ['丹竹头'],
+ 'money': ['7000'],
+ 'room': ['5室2厅3卫                    \xa0\xa0\xa0\xa0144㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '房东自住型装修,真实照片,实地拍摄,干净清爽,健康花                    '],
+ 'titleurl': ['http://sz.58.com/zufang/31980603210568x.shtml']}{'add': ['上梅林'],
+ 'money': ['5700'],
+ 'room': ['3室2厅1卫                    \xa0\xa0\xa0\xa074㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 凯丰花园二期电梯三房出租 南北通户型 户型好 '
+           '全齐家                    '],
+ 'titleurl': ['http://sz.58.com/zufang/32079946503491x.shtml']}{'add': ['下梅林'],
+ 'money': ['10000'],
+ 'room': ['3室2厅1卫                    \xa0\xa0\xa0\xa089㎡'],
+ 'title': ['\r\n                        整租 | 绿景虹湾 3室2厅1卫                    '],
+ 'titleurl': ['http://sz.58.com/zufang/31740811732425x.shtml']}{'add': ['布吉街'],
+ 'money': ['900'],
+ 'room': ['次卧(3室)                    \xa0\xa0\xa0\xa089㎡'],
+ 'title': ['\r\n'
+           '                        单间 | 地铁附近 布吉中学旁 全新次卧 '
+           '免                    '],
+ 'titleurl': ['http://sz.58.com/hezu/32284134347471x.shtml']}{'add': ['大鹏'],
+ 'money': ['2000'],
+ 'room': ['1室1厅1卫                    \xa0\xa0\xa0\xa047㎡'],
+ 'title': ['\r\n'
+           '                        整租 | KPR佳兆业广场 1室1厅1卫                    '],
+ 'titleurl': ['http://sz.58.com/zufang/32113932881975x.shtml']}{'add': ['平湖'],
+ 'money': ['4200'],
+ 'room': ['3室2厅2卫                    \xa0\xa0\xa0\xa088㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 龙岗平湖 华南城旁 熙璟城精装三房 家私电齐全 '
+           '拎包                    '],
+ 'titleurl': ['http://sz.58.com/zufang/32030356157381x.shtml']}{'add': ['坪山'],
+ 'money': ['2600'],
+ 'room': ['3室2厅2卫                    \xa0\xa0\xa0\xa089㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 坪山六和城，精美三房，89平南北户型 '
+           '装修是真的好看                    '],
+ 'titleurl': ['http://sz.58.com/zufang/32268601227600x.shtml']}{'add': ['皇岗'],
+ 'money': ['2800'],
+ 'room': ['主卧(3室)                    \xa0\xa0\xa0\xa028㎡'],
+ 'title': ['\r\n'
+           '                        单间 | 景源华庭蛋壳公寓直租 双周保洁 拎包入住 '
+           '包物业                    '],
+ 'titleurl': ['http://sz.58.com/hezu/32283623454140x.shtml']}{'add': ['白石洲'],
+ 'money': ['6000'],
+ 'room': ['2室2厅1卫                    \xa0\xa0\xa0\xa077㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 白石洲地铁口 侨城豪苑二期 正南朝向 精装两房 '
+           '业主                    '],
+ 'titleurl': ['http://sz.58.com/zufang/31872274898621x.shtml']}{'add': ['皇岗'],
+ 'money': ['3800'],
+ 'room': ['1室1厅1卫                    \xa0\xa0\xa0\xa050㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '（免俑）高端新房（市中心新一房一）高管居家（皇御苑紧                    '],
+ 'titleurl': ['http://sz.58.com/zufang/32279234704939x.shtml']}{'add': ['新安'],
+ 'money': ['1660'],
+ 'room': ['次卧(4室)                    \xa0\xa0\xa0\xa013㎡'],
+ 'title': ['\r\n'
+           '                        单间 | 灵芝新村精装修4居室01卧                    '],
+ 'titleurl': ['http://sz.58.com/hezu/32246556109902x.shtml']}{'add': ['横岗'],
+ 'money': ['1000'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa035㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 横岗华侨新村 1室0厅1卫                    '],
+ 'titleurl': ['http://sz.58.com/zufang/32224802413897x.shtml']}{'add': ['西乡'],
+ 'money': ['4500'],
+ 'room': ['3室2厅1卫                    \xa0\xa0\xa0\xa0105.93㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 安家优选 桃源居十三区 3室2厅 '
+           '105平                    '],
+ 'titleurl': ['http://sz.58.com/zufang/32007423262918x.shtml']}{'add': ['坂田'],
+ 'money': ['1100'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa032㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 整租 信义嘉御山精装修 家具家私齐全 电梯房 '
+           '拎包入                    '],
+ 'titleurl': ['http://sz.58.com/zufang/32190861342639x.shtml']}{'add': ['中心区'],
+ 'money': ['3800'],
+ 'room': ['次卧(3室)                    \xa0\xa0\xa0\xa0110㎡'],
+ 'title': ['\r\n                        单间 | 恒运豪庭，合租，限女生                    '],
+ 'titleurl': ['http://sz.58.com/hezu/32086123124940x.shtml']}{'add': ['八卦岭'],
+ 'money': ['4800'],
+ 'room': ['2室1厅1卫                    \xa0\xa0\xa0\xa045㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '豪华复式楼层，全新装修，高楼层，视野好                    '],
+ 'titleurl': ['http://sz.58.com/zufang/32206629376558x.shtml']}{'add': ['莲花一村'],
+ 'money': ['7500'],
+ 'room': ['3室2厅1卫                    \xa0\xa0\xa0\xa091㎡'],
+ 'title': ['\r\n                        整租 | 彩田村 3室2厅1卫                    '],
+ 'titleurl': ['http://sz.58.com/zufang/31991923891142x.shtml']}{'add': ['后海'],
+ 'money': ['7500'],
+ 'room': ['2室2厅1卫                    \xa0\xa0\xa0\xa067㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '后海公馆精装大两房，南北通透，拎包入住，随时欢迎来电                    '],
+ 'titleurl': ['http://sz.58.com/zufang/32068738061507x.shtml']}{'add': ['光明新区'],
+ 'money': ['830'],
+ 'room': ['2室1厅1卫                    \xa0\xa0\xa0\xa086㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '光明新区公明秋园雅苑面积大价格超便宜电梯二房                    '],
+ 'titleurl': ['http://sz.58.com/zufang/28124761206989x.shtml']}{'add': ['后海'],
+ 'money': ['18000'],
+ 'room': ['4室2厅2卫                    \xa0\xa0\xa0\xa0142㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 鸿威海怡湾畔花园 4室2厅2卫                    '],
+ 'titleurl': ['http://sz.58.com/zufang/32129180020801x.shtml']}{'add': ['长龙'],
+ 'money': ['1000'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa026㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 公寓直租 家电齐全 大阳台采光好 免费停车 '
+           '欢迎随时                    '],
+ 'titleurl': ['http://sz.58.com/zufang/32096315190588x.shtml']}{'add': ['罗湖区委'],
+ 'money': ['500'],
+ 'room': ['主卧(1室)                    \xa0\xa0\xa0\xa015㎡'],
+ 'title': ['\r\n                        单间 | 田华楼 1室1卫 限女生                    '],
+ 'titleurl': ['http://sz.58.com/hezu/32284134464080x.shtml']}{'add': ['前海'],
+ 'money': ['7800'],
+ 'room': ['3室2厅2卫                    \xa0\xa0\xa0\xa0105㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '阳光棕榈园三期.精装标准三居室.邻近地铁家用全.近东                    '],
+ 'titleurl': ['http://sz.58.com/zufang/32265216011061x.shtml']}{'add': ['华强北'],
+ 'money': ['7100'],
+ 'room': ['2室1厅1卫                    \xa0\xa0\xa0\xa070㎡'],
+ 'title': ['\r\n'
+           '                        整租 | '
+           '航天立业华庭，精装两房两厅倾情放租，生活方便！                    '],
+ 'titleurl': ['http://sz.58.com/zufang/31858632573229x.shtml']}{'add': ['南头'],
+ 'money': ['4600'],
+ 'room': ['1室1厅1卫                    \xa0\xa0\xa0\xa041㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 豪华装修,拎包入住 简单装修 '
+           '押二付一                    '],
+ 'titleurl': ['http://sz.58.com/zufang/25792282556608x.shtml']}{'add': ['东门'],
+ 'money': ['2200'],
+ 'room': ['1室0厅1卫                    \xa0\xa0\xa0\xa025㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 128号大院 1室0厅1卫                    '],
+ 'titleurl': ['http://sz.58.com/zufang/32206338476481x.shtml']}{'add': ['下梅林'],
+ 'money': ['6800'],
+ 'room': ['2室1厅1卫                    \xa0\xa0\xa0\xa064㎡'],
+ 'title': ['\r\n                        整租 | 绿景虹湾 2室1厅1卫                    '],
+ 'titleurl': ['http://sz.58.com/zufang/31295588644289x.shtml']}{'add': ['龙岗中心城'],
+ 'money': ['1600'],
+ 'room': ['1室1厅1卫                    \xa0\xa0\xa0\xa036㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 保利上城 业主急租 一房精装 双地 铁口 '
+           '交通便利                     '],
+ 'titleurl': ['http://sz.58.com/zufang/32280840553168x.shtml']}{'add': ['人民南'],
+ 'money': ['3500'],
+ 'room': ['2室1厅1卫                    \xa0\xa0\xa0\xa040㎡'],
+ 'title': ['\r\n'
+           '                        整租 | 人民南地铁口旁 德兴大厦 精装两房 自带空中花园 '
+           '出                    '],
+ 'titleurl': ['http://sz.58.com/zufang/31828610833856x.shtml']}{'add': [], 'money': [], 'room': [], 'title': [], 'titleurl': []}

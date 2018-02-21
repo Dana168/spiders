@@ -1,0 +1,39 @@
+{'confidence_minute': '置信度：0.449758',
+ 'content': '柳树是一类植物的总称：旱柳 Salix matsudana Koidz.、腺柳 Salix chaenomeloides '
+            'Kimura、垂柳  Salix babylonica '
+            'Linn.柳属多为灌木，稀乔木，无顶芽，合轴分枝，雄蕊数目较少，虫媒花等特征表明，较杨属与钻天柳属进化。本属世界约520多种，主产北半球温带地区，寒带次之，热带和南半球极少，大洋洲无野生种。我国有257种，122变种，33变型。各省区均产。[1]',
+ 'name': "('柳树', '目录')",
+ 'negative_prob_minute': '消极类别的概率：0.247609',
+ 'positive_prob_minute': '积极类别的概率：0.752391',
+ 'sentiment_minute': '情感极性分类：2',
+ 'url': 'https://baike.baidu.com/item/%E6%9F%B3%E6%A0%91'}
+{'confidence_minute': '置信度：0.833857',
+ 'content': '佛罗里达州（Florida）是美国东南部的一个州。位于东南海岸突出的半岛上。东濒大西洋，西临墨西哥湾，北与亚拉巴马州和佐治亚州接壤。面积为151670平方公里。海岸线总长13500公里，仅次于阿拉斯加州，居全美第二位。首府塔拉哈西（Tallahassee）。“佛罗里达” '
+            '源于西班牙语，意为“鲜花盛开的地方”。 [1]',
+ 'name': "('佛罗里达州', '目录')",
+ 'negative_prob_minute': '消极类别的概率：0.0747643',
+ 'positive_prob_minute': '积极类别的概率：0.925236',
+ 'sentiment_minute': '情感极性分类：2',
+ 'url': 'https://baike.baidu.com/item/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%B7%9E'}
+{'confidence_minute': '置信度：0.832107',
+ 'content': '乌桕jiù '
+            '，又称木子树，为工业用木本油料树种之一。据“四五”森林资源清查，四川全省有成片桕林841ha，零星桕树3872万株。30年来平均年生产桕籽1447.3万kg，历史最高年（1956年）达2169.5万kg是省内栽培较多的经济林木。',
+ 'name': "('乌桕树', '目录')",
+ 'negative_prob_minute': '消极类别的概率：0.0755516',
+ 'positive_prob_minute': '积极类别的概率：0.924448',
+ 'sentiment_minute': '情感极性分类：2',
+ 'url': 'https://baike.baidu.com/item/%E4%B9%8C%E6%A1%95%E6%A0%91'}
+{'confidence_minute': '置信度：0.774477',
+ 'content': '地区，是中国大陆的省、自治区根据行政管理的需要划分的地级行政区域，区域内包括若干个县、自治县、县级市。1975年以前称专区，设专员公署。地区始设于国民党政府时期，中华人民共和国成立后沿用。地区不是一级地方政权，而是设立行政公署，作为省、自治区人民政府的派出机构。[1]20世纪80年代起，大部分地区被撤销，地区所管理的县、自治县、市改由地级市领导。现存的地区主要存在于黑龙江、西藏和新疆等省区。另外地区也指北京市的区政府派出的对城乡结合部进行管理的行政机关管理的过渡的特殊乡级行政区。全国现存7个地区。',
+ 'name': "('地区', '（中华人民共和国地级行政区）')",
+ 'negative_prob_minute': '消极类别的概率：0.101485',
+ 'positive_prob_minute': '积极类别的概率：0.898515',
+ 'sentiment_minute': '情感极性分类：2',
+ 'url': 'https://baike.baidu.com/item/%E5%9C%B0%E5%8C%BA/13841496'}
+{'confidence_minute': '置信度：0.394838',
+ 'content': '亚成鸟，一般是指那些在出生后一年或一年之内不能达到性成熟的鸟种个体发育的一个阶段（时期），人们对其身体发育和性发育程度的一种介定与描述。',
+ 'name': '亚成鸟',
+ 'negative_prob_minute': '消极类别的概率：0.727677',
+ 'positive_prob_minute': '积极类别的概率：0.272323',
+ 'sentiment_minute': '情感极性分类：0',
+ 'url': 'https://baike.baidu.com/item/%E4%BA%9A%E6%88%90%E9%B8%9F'}

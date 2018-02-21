@@ -1,0 +1,5 @@
+3
+ZÚûY?  ?               @   s   G d d? de ?ZdS )c               @   s$   e Zd Zdd? Zdd? Zdd? ZdS )?Scrapy58Pipelinec             C   s   t dd?| _d S )Nz
+zufang.txt?wb)?open?file)?self? r   ?E:\python\PartTwo\homework\w3\58\scrapy58\scrapy58\pipelines.py?__init__   s    zScrapy58Pipeline.__init__c             C   s   | j j?  d S )N)r   ?close)r   r   r   r   ?__del__   s    zScrapy58Pipeline.__del__c             C   s$   | j jt|?jd?? | j j?  |S )Nzutf-8)r   ?write?str?encode?flush)r   ?item?spiderr   r   r   ?process_item   s    
+zScrapy58Pipeline.process_itemN)?__name__?__module__?__qualname__r   r
+   r   r   r   r   r   r   	   s   r   N)?objectr   r   r   r   r   ?<module>	   s    

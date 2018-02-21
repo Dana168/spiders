@@ -1,0 +1,4 @@
+3
+[ÚûY?  ?               @   s   d dl Z G dd? de j?ZdS )?    Nc               @   s4   e Zd Zej? Zej? Zej? Zej? Zej? Z	dS )?Scrapy58ItemN)
+?__name__?__module__?__qualname__?scrapy?Field?title?titleurl?room?add?money? r   r   ?E:\python\PartTwo\homework\w3\58\scrapy58\scrapy58\items.pyr      s
+   r   )r   ?Itemr   r   r   r   r   ?<module>   s   

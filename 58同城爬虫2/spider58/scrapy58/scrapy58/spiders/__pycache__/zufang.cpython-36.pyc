@@ -1,0 +1,7 @@
+3
+�"ZS  ?               @   s0   d dl Z d dlZd dlmZ G dd? de?ZdS )?    N)?CrawlSpiderc               @   s$   e Zd ZdZdgZdgZdd? ZdS )?ZufangSpider?zufangz	sz.58.comzhttp://sz.58.com/chuzu/pn1c             c   s?   t |j? |jd?}xv|D ]n}tjj? }|jd?j? |d< |jd?j? |d< |jd?j? |d< |jd?j? |d	< |jd
+?j? |d< |V  qW d S )Nz//*[@class="listUl"]/liz./div[2]/h2/a/text()?titlez./div[2]/h2/a/@hrefZtitleurlz./div[2]/p[1]/text()?roomz./div[2]/p[2]/a[1]/text()?addz./div[3]/div[2]/b/text()Zmoney)?print?url?xpath?scrapy58?itemsZScrapy58Item?extract)?self?response?datalist?dataZzfitem? r   �n   E:\python\PartTwo\homework\w3\肖雅�?58同城爬虫-python1701\spider58\scrapy58\scrapy58\spiders\zufang.py?parse   s    
+
+
+
+zZufangSpider.parseN)?__name__?__module__?__qualname__?name?allowed_domains?start_urlsr   r   r   r   r   r      s   r   )?scrapyZscrapy58.itemsr   ?scrapy.spidersr   r   r   r   r   r   ?<module>   s   

@@ -1,0 +1,2 @@
+3
+[ÚûYH  ?               @   s   d Z dgZdZdZddiZdS )Zscrapy58zscrapy58.spidersTz#scrapy58.pipelines.Scrapy58Pipelinei,  N)?BOT_NAME?SPIDER_MODULES?NEWSPIDER_MODULE?ROBOTSTXT_OBEY?ITEM_PIPELINES? r   r   ?E:\python\PartTwo\homework\w3\58\scrapy58\scrapy58\settings.py?<module>   s   .
